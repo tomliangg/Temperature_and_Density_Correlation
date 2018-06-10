@@ -35,9 +35,3 @@ stations = pd.read_json(station_fh, lines=True)</pre>
 <ol><li>Based on your results for the last question, do you think daily temperatures are a good way to predict population density? Briefly explain why or why not.
 </li><li>The larger data file (<code>stations.json.gz</code>) was kept compressed throughout the analysis. Constantly decompressing the data seems inefficient. Why might this be faster than working with the uncompressed <code>.json</code> data?
 </li></ol>
-<h2 id="h-submitting">Submitting</h2>
-<p>Submit your files through CourSys for <a href="/2018su-cmpt-353-d1/+e4/">Exercise 4</a>.</p></div>
-
-<div class="updateinfo">Updated Fri June 08 2018, 09:11 by ggbaker.
-
-</div>
