@@ -3,7 +3,9 @@
 
 <p><a href="https://coursys.sfu.ca/2018su-cmpt-353-d1/pages/AcademicHonesty">Academic Honesty</a>: it's important, as always.</p>
 
+<br/>
 <p> The task of this exercise is to determine if there is any correlation between population density and temperature? You are given the city's name, latitude, and longitude in the city_data.csv file and weather stations' temperature, latitude, and longitude in the stations.json.gz file. To get the temperature data for the city, you need to find out the weather station that is closest to each city. The latitude and longitude data will be used to help determine the distance. </p>
+<br/>
 
 <p>Below is the exercise description </p>
 <hr>
